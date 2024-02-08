@@ -1,0 +1,1 @@
+Registery of Singletons
