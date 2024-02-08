@@ -1,0 +1,14 @@
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\bin\Debug\net8.0\RegistrySingelton.exe
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\bin\Debug\net8.0\RegistrySingelton.deps.json
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\bin\Debug\net8.0\RegistrySingelton.runtimeconfig.json
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\bin\Debug\net8.0\RegistrySingelton.dll
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\bin\Debug\net8.0\RegistrySingelton.pdb
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.AssemblyInfoInputs.cache
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.AssemblyInfo.cs
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.csproj.CoreCompileInputs.cache
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.dll
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\refint\RegistrySingelton.dll
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.pdb
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.genruntimeconfig.cache
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\ref\RegistrySingelton.dll
