@@ -12,3 +12,4 @@ c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\ob
 c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.pdb
 c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.genruntimeconfig.cache
 c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\ref\RegistrySingelton.dll
+c:\Users\akshi\OneDrive\Desktop\Documents\RegistrySingelton\RegistrySingelton\obj\Debug\net8.0\RegistrySingelton.sourcelink.json

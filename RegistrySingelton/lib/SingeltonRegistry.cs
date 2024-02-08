@@ -4,7 +4,7 @@ namespace SingletonRegistery{
 
     class SingletonRegister
     {
-        private static SingletonRegister instance;
+        private static SingletonRegister? instance;
 
         private Dictionary < Type, ISingelton > registery;
 

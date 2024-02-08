@@ -12,13 +12,13 @@ internal class Program
 
         register.RegisterSingelton(h.GetType(),h);
 
-        Animal elephant=new Animal("Elephant Jumbo");
+        Animal elephant1=new Animal("Elephant Jumbo");
 
-        Animal bird=new Animal("Bird");
+        Animal elephant2=new Animal("Elephant Simba");
 
-        register.RegisterSingelton(elephant.GetType(),elephant);
+        register.RegisterSingelton(elephant1.GetType(),elephant1);
 
-        register.RegisterSingelton(bird.GetType(),bird);
+        register.RegisterSingelton(elephant2.GetType(),elephant2);
 
         register.getSingelton(typeof(Animal)).action();
 
